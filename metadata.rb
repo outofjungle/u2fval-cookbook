@@ -1,15 +1,7 @@
-name 'u2fval-cookbook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'all_rights'
-description 'Installs/Configures u2fval-cookbook'
-long_description 'Installs/Configures u2fval-cookbook'
+name 'u2fval'
+maintainer 'Venkat Venkataraju'
+maintainer_email 'venkat.venkataraju@gmail.com'
+license 'MIT'
+description 'Installs/Configures Yubico U2F Validation Server'
+long_description 'Installs/Configures Yubico U2F Validation Server'
 version '0.1.0'
-
-# If you upload to Supermarket you should set this so your cookbook
-# gets a `View Issues` link
-# issues_url 'https://github.com/<insert_org_here>/u2fval-cookbook/issues' if respond_to?(:issues_url)
-
-# If you upload to Supermarket you should set this so your cookbook
-# gets a `View Source` link
-# source_url 'https://github.com/<insert_org_here>/u2fval-cookbook' if respond_to?(:source_url)

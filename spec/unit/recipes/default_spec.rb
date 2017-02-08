@@ -6,7 +6,7 @@
 
 require 'spec_helper'
 
-describe 'u2fval-cookbook::default' do
+describe 'u2fval::default' do
   context 'When all attributes are default, on an unspecified platform' do
     let(:chef_run) do
       runner = ChefSpec::ServerRunner.new
