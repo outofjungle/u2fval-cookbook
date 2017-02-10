@@ -16,7 +16,6 @@
 
 ## TODO
 
-* Make all resources idempotnet
 * Pin all binaries
-* Write chefspec tests
+* Write chefspec/inspec tests
 * Support centos-7, ubuntu-12, ubuntu-14
